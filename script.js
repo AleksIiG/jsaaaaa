@@ -1,6 +1,6 @@
 // 1. Замініть посилання нижче на адресу своєї Firebase Realtime Database.
 // Приклад: https://your-project-default-rtdb.europe-west1.firebasedatabase.app/todos.json
-const FIREBASE_URL = "https://console.firebase.google.com/u/1/project/jscourse-4b9bb/database/jscourse-4b9bb-default-rtdb/data/~2F/todos.json";
+const FIREBASE_URL = "https://jscourse-4b9bb-default-rtdb.europe-west1.firebasedatabase.app//todos.json";
 
 const form = document.querySelector("#todo-form");
 const input = document.querySelector("#todo-input");
